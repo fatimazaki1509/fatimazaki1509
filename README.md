@@ -3,7 +3,7 @@
 🎓 Third-year B.Tech CSE (AI & ML) student at G.H. Raisoni College of Engineering, Nagpur (CGPA: 9.40/10).  
 💡 Passionate about **Artificial Intelligence, Machine Learning, and Data Science**.  
 🚀 Hackathon winner & project builder who loves solving real-world problems with AI/ML.  
-🌱 Currently learning **deep learning, ANN models, and full-stack ML app deployment**.  
+🌱 Currently learning **deep learning, ANN models,  ML **.  
 
 ---
 
